@@ -1,0 +1,1939 @@
+     /* Extra small devices (portrait phones, less than 576px) */
+     @media (max-width: 575.98px) { 
+
+        body {
+            font-family: 'Lato', sans-serif;
+            margin: 0;
+            padding: 0;
+        
+        }
+        /* header top bar start  */
+        .header_top_bar{
+            padding-top: 10px;
+            background-color: #00003A;
+        
+        }
+        .number{
+            
+        
+        }
+        .n_phone{
+            font-size: 9px;
+            margin: 0;
+            margin-right: 10px;
+            text-decoration: none;
+            color: white;
+            display: inline-block;
+        }
+        .n_phone:hover{
+            text-decoration: none;
+            color: white;
+        
+        
+        }
+        .n_icon{
+            margin: 0 3px;
+            font-size: 11px;
+        }
+        .social_link{
+            float: right;
+            margin-right: 15px;
+        }
+        .social_icon{
+            text-decoration: none;
+            color: white;
+        }
+        .s_icon{
+            margin: 0px;
+            font-size: 13px;
+        }
+        .social_icon:hover{
+            color: white;
+        }
+        
+        /* header top bar end */
+        /* header strat */
+        header {
+            background-color: red;
+            border: none;
+        }
+        
+        .navbar {
+            padding: 9px 0;
+        }
+        
+        .navbar-brand {
+            font-family: 'Lato', sans-serif;
+            font-weight: 500;
+            text-transform: capitalize;
+        }
+        
+        .manu {}
+        
+        .manu ul li a {
+            font-family: 'Noto Sans TC', sans-serif;
+            text-transform: uppercase;
+            color: white !important;
+        
+        }
+        
+        .manu ul li a:hover {
+            color: white !important;
+        
+        }
+        /* header end */
+        /* banner start */
+        .banner{
+            padding: 53px 0;
+            background-image: url(../img/banner.jpeg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 100%;
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+        .b_content{
+            padding: 0px 0;
+            text-align: center;
+        }
+         .b_h1{
+        color: white;
+        font-size: 28px;
+        }
+         .b_p{
+        
+color: white;
+        
+font-size: 11px;
+        
+line-height: 1.8;
+        
+margin: 17px 0;
+        }
+        .b_btn{
+            color: red;
+            border: 1px solid red;
+            width: 74px;
+            height: 26px;
+            font-size: 8px;
+        }
+         .b_btn:hover{
+            background-color: red;
+        
+          }
+        /* banner end */
+        /* service start */
+        .service{
+            padding: 50px 0;
+        }
+        .best_service{
+            margin-bottom: 15px;
+        }
+        .bs_h2{font-size: 23px;font-weight: 600;}
+        .bs_p{
+            
+margin: 6px 0;
+            
+color: #8e8e8e;
+            
+font-size: 11px;
+        }
+        .myservices{
+            margin-bottom:20px;
+            padding: 21px 20px;
+            background-color: #FAFAFA;
+            text-align: center;
+            box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
+         }
+         .myservices:hover{
+             transition: .5s;
+            box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 30%);
+         }
+         
+        .s_s_icon{
+        
+font-size: 30px;
+        
+color: red;
+        }
+        .s_sh4{
+        
+margin: 12px 0;
+        
+font-size: 22px;
+        
+font-weight: 600;
+        }
+        .s_sp{
+        
+color: #8e8e8e;
+        
+font-size: 13px;
+        }
+        /* service end */
+        
+        
+         /* experieance section start */
+         .experieance-section{
+            padding: 61px 0px;
+            background-image: url(../img/ff.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .expe_h1{
+            font-size: 25px;
+            color: white;
+        }
+        .expe_p{
+            font-size: 11px;
+            color: white;
+            line-height: 1.8;
+            margin-top: 24px;
+            margin-bottom: 2px;
+        }
+        .expe_btn{
+            background: transparent !important;
+            border: 1px solid white;
+            color: white;
+            margin-top: 30px;
+            font-size: 10px;
+        }
+        .expe_btn:hover{
+            color: white;
+            box-shadow: 0 0 0 transparent !important;
+        
+        }
+        .skills{
+        
+        }
+        .skill_h1{
+          color: white;
+          font-size: 25px;
+        }
+        .skill_p{
+          color: white;
+          font-size: 11px;
+        }
+        .progress{
+            color: white;
+            height: 12px;
+        }
+        .c_c_color{
+            color: white;
+            font-size: 11px;
+            margin-bottom: 7px;
+        }
+        .pro_color{
+            background-color: red;
+            font-size: 10px;
+        }
+        
+         /* experieance section end */
+        /* Choose Me section start */
+        .choose_me{
+        padding-top: 50px;
+        }
+        .choose{
+        
+margin-bottom: 33px;
+        }
+        .co_h2{
+           font-size: 25px;
+           font-weight: 600;
+        }
+        .co_p{
+            margin: 13px 0;
+            font-size: 12px;
+            color: #8e8e8e;
+        }
+        .expert{
+            box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
+            text-align: center;
+            background-color: #FAFAFA;
+            padding: 43px 41px;
+            margin-bottom: 20px;
+        }
+        
+        .exp_h2{
+        
+font-weight: 600;
+        
+line-height: 1.3;
+        
+font-size: 19px;
+        }
+        .te_color{
+            color: red;
+        }
+        /* Choose Me section end */
+        
+        /* protfolio section start */
+        .protfolio{
+            padding: 50px 0;
+        }
+        .project{
+        
+margin-bottom: 31px;
+        }
+        .pr_h2{
+           font-size: 25px;
+           font-weight: 600;
+        }
+        .pr_p{
+            margin: 15px 0;
+            font-size: 12px;
+            color: #8e8e8e;
+        }
+        
+        .content {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+            margin: auto;
+            overflow: hidden;
+            margin-bottom: 20px;
+            
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+        
+        .content .content-overlay {
+            background: rgba(0, 0, 0, 0.7);
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            opacity: 0;
+            -webkit-transition: all 0.4s ease-in-out 0s;
+            -moz-transition: all 0.4s ease-in-out 0s;
+            transition: all 0.4s ease-in-out 0s
+        }
+        
+        .content:hover .content-overlay {
+            opacity: 1;
+        }
+        
+        .content-image {
+            width: 100%;
+            height: 70%;
+        }
+        
+        img {
+            
+border-radius: 5px;
+            
+width: 76%;
+        }
+        
+        .content-details {
+            position: absolute;
+            text-align: center;
+            padding-left: 1em;
+            padding-right: 1em;
+            width: 100%;
+            top: 50%;
+            left: 50%;
+            opacity: 0;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            -webkit-transition: all 0.3s ease-in-out 0s;
+            -moz-transition: all 0.3s ease-in-out 0s;
+            transition: all 0.3s ease-in-out 0s
+        }
+        
+        .content:hover .content-details {
+            top: 50%;
+            left: 50%;
+            opacity: 1
+        }
+        
+        .content-details h3 {
+            font-size: 18px;
+            color: #fff;
+            font-weight: 500;
+            letter-spacing: 0.15em;
+            margin-bottom: 0.5em;
+            text-transform: uppercase;
+        }
+        
+        .content-details p {
+            color: #fff;
+            font-size: 0.8em
+        }
+        
+        .fadeIn-bottom {
+            top: 80%
+        }
+        
+        .con_icon{
+            
+margin: 0 5px;
+            
+font-size: 15px;
+            
+border: 1px solid white;
+            
+width: 33px;
+            
+padding-bottom: 8px;
+            
+padding-top: 8px;
+            
+border-radius: 14%;
+            
+color: white;
+        }
+        .con_icon:hover{
+            transition: .4s;
+            color: white;
+            border: none;
+            background-color: red;
+                
+            
+            }
+        .atage{
+            text-decoration: none;
+        }
+        /* protfolio section edn */
+        
+         /* hire me sectione start  */
+         .hire_me{
+            background-image: url(../img/bg.jpg);
+            background-position: center;
+            background-size: 100% ;
+            background-repeat: no-repeat;
+            
+            font-family: 'Noto Sans TC', sans-serif;
+         }
+         .next_project{
+             
+padding: 39px 0;
+             
+text-align: center;
+             
+color: white;
+             
+font-family: 'Noto Sans TC', sans-serif;
+         }
+         .nex_h1{
+        
+font-size: 21px;
+        
+text-transform: uppercase;
+        }
+         .nex_p{
+        
+margin-bottom: 23px;
+        
+font-size: 11px;
+        
+color: white;
+        }
+         .nex_btn{
+             color: red;
+             border: 1px solid red;
+             width: 81px;
+             height: 32px;
+             font-size: 12px;
+         }
+         .nex_btn:hover{
+            color: white;
+            border: 1px solid red;
+            background-color: red;
+        }
+         /* hire me sectione end  */
+         /* client say section start  */
+         .client_say{
+             padding: 50px 0;
+         }
+         .client{
+        
+margin-bottom: 20px;
+        
+}
+         .cli_h2{
+             
+font-size: 25px;
+             
+font-weight: 600;
+         }
+         .cli_p{
+            margin: 22px 0;
+            font-size: 12px;
+            color: #8e8e8e;
+         }
+        
+        .client_review{
+            text-align: center;
+            padding: 25px 12px;
+            background-color: #FAFAFA;
+        }
+         .client_img{
+             width: 38%;
+             border-radius: 50%;
+         }
+         .rev_h3{
+        
+font-size: 18px;
+        
+font-weight: 600;
+        
+margin-top: 9px;
+        
+margin-bottom: 0;
+        }
+        .review_icon{
+            margin: 3px 1px;
+            font-size: 10px;
+            border: 1px solid black;
+            width: 16px;
+            padding-bottom: 2px;
+            padding-top: 2px;
+            border-radius: 14%;
+            color: black;
+        }
+        .review_icon:hover{
+            background-color: black;
+            color: white;
+        }
+        .rev_h5{
+        
+font-weight: 400;
+        
+font-size: 12px;
+        } 
+        .rev_p{
+            
+font-size: 16px;
+            
+margin: 0;
+            
+display: none;
+            
+color: #8e8e8e;
+        }
+         /* client say section edn  */
+        
+         /* message section start */
+         .message{
+        
+         }
+         .send_me{
+             margin-bottom: 20px;
+        
+         }
+         .send_h2{
+            font-size: 25px;
+            font-weight: 600;
+         }
+         .send_p{
+            margin: 22px 0;
+            font-size: 12px;
+            color: #8e8e8e;
+         }
+        
+         .information{
+             text-align: center;
+             background-color: #fafafa;
+             padding: 23px 11px;
+             box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
+             margin-bottom: 50px;
+         }
+         .infor_icon{
+             font-size: 24px;
+             color: red;
+         }
+         .p_phone{
+        
+margin-bottom: 2px;
+        
+margin-top: 1px;
+        
+font-size: 15px;
+        }
+         .teliphone{
+             text-decoration: none;
+             font-size: 12px;
+             color: black;
+         }
+         .teliphone:hover{
+            color: black;
+        }
+         .p_pho_p{
+        
+margin-top: 10px;
+        
+font-size: 10px;
+        
+color: #8e8e8e;
+        
+margin: 0;
+        }
+        
+        
+        /* 3rd row */
+        
+        .send_me_message{
+            padding-bottom: 50px;
+        }
+        .form_in{
+            margin-bottom: 17px;
+            border: 1px solid black;
+            font-size: 13px;
+        }
+        .form_in:focus{
+            box-shadow: none;
+            border: 1px solid black;
+        }
+        .ms_type{
+            margin-bottom: 13px;
+            border: 1px solid black;
+            height: 135px;
+            font-size: 12px;
+        }
+        .ms_type:focus{
+            box-shadow: none;
+            
+            border: 1px solid black;
+        }
+        .ms_btn{
+            width: 100%;
+            font-size: 12px;
+            color: red;
+            height: 34px;
+            border: 1px solid red;
+        }
+        .ms_btn:hover{
+            width: 100%;
+            color: white;
+            border: 1px solid red;
+            background-color: red;
+        }
+        
+         /* messsage section end */
+        
+         /* footer extion start  */
+         .footer{
+             background-color: #1C3144;
+             padding: 0;
+         }
+         .footer_ul{
+             margin: 28px 0;
+         }
+         .fo_atage{
+        
+         }
+         .fo_icon{
+        
+font-size: 16px;
+        
+color: white;
+        
+margin: 0 4px;
+        }
+        .copyright{
+            float: right;
+            margin: 28px 0;
+            font-size: 12px;
+        }
+        .copy_p{
+            color: white;
+            display: inline;
+        }
+         /* footer extion end  */
+
+    }
+
+     /* Small devices (landscape phones, 576px and up) */
+    @media (min-width: 576px) and (max-width: 767.98px) { 
+
+        body {
+            font-family: 'Lato', sans-serif;
+            margin: 0;
+            padding: 0;
+        
+        }
+        /* header top bar start  */
+        .header_top_bar{
+            padding-top: 10px;
+            background-color: #00003A;
+        
+        }
+        .number{
+            
+        
+        }
+        .n_phone{
+            font-size: 7px;
+            margin: 0;
+            margin-right: 10px;
+            text-decoration: none;
+            color: white;
+            display: inline-block;
+        }
+        .n_phone:hover{
+            text-decoration: none;
+            color: white;
+        
+        
+        }
+        .n_icon{
+            margin: 0 2px;
+            font-size: 7px;
+        }
+        .social_link{
+            float: right;
+            margin-right: 15px;
+        }
+        .social_icon{
+            text-decoration: none;
+            color: white;
+        }
+        .s_icon{
+            margin: 1px;
+            font-size: 14px;
+        }
+        .social_icon:hover{
+            color: white;
+        }
+        
+        /* header top bar end */
+        /* header strat */
+        header {
+            background-color: red;
+            border-bottom: 1px solid black;
+        }
+        
+        .navbar {
+            padding: 7px 0;
+        }
+        
+        .navbar-brand {
+            font-family: 'Lato', sans-serif;
+            font-weight: 500;
+            text-transform: capitalize;
+        }
+        
+        .manu {}
+        
+        .manu ul li a {
+            font-family: 'Noto Sans TC', sans-serif;
+            text-transform: uppercase;
+            color: white !important;
+        
+        }
+        
+        .manu ul li a:hover {
+            color: white !important;
+        
+        }
+        /* header end */
+        /* banner start */
+        .banner{
+            padding: 73px 0 78px 0px;
+            background-image: url(../img/banner.jpeg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 100%;
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+        .b_content{
+            padding: 13px 0;
+            text-align: center;
+        }
+         .b_h1{
+        color: white;
+        font-size: 28px;
+        }
+         .b_p{
+        
+color: white;
+        
+font-size: 9px;
+        
+line-height: 1.8;
+        
+margin: 12px 0;
+        }
+        .b_btn{
+            color: red;
+            border: 1px solid red;
+            width: 85px;
+            height: 27px;
+            font-size: 9px;
+        }
+         .b_btn:hover{
+            background-color: red;
+        
+          }
+        /* banner end */
+        /* service start */
+        .service{
+            padding: 56px 0;
+        }
+        .best_service{
+            margin-bottom: 21px;
+        }
+        .bs_h2{font-size: 25px;font-weight: 600;}
+        .bs_p{
+            
+margin: 12px 0;
+            
+font-size: 11px;
+            
+color: #8e8e8e;
+        }
+        .myservices{
+            margin-bottom:20px;
+            padding: 22px 20px;
+            background-color: #FAFAFA;
+            text-align: center;
+            box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
+         }
+         .myservices:hover{
+             transition: .5s;
+            box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 30%);
+         }
+         
+        .s_s_icon{
+        
+font-size: 30px;
+        
+color: red;
+        }
+        .s_sh4{
+        
+margin: 12px 0;
+        
+font-size: 23px;
+        
+font-weight: 600;
+        }
+        .s_sp{
+        
+color: #8e8e8e;
+        
+font-size: 13px;
+        }
+        /* service end */
+        
+        
+         /* experieance section start */
+         .experieance-section{
+            padding: 80px 0px;
+            background-image: url(../img/ff.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .expe_h1{
+            font-size: 24px;
+            color: white;
+        }
+        .expe_p{
+            font-size: 11px;
+            color: white;
+            line-height: 1.8;
+            margin-top: 27px;
+            margin-bottom: 30px;
+        }
+        .expe_btn{
+            background: transparent !important;
+            border: 1px solid white;
+            color: white;
+            font-size: 12px;
+            margin-top: 8px;
+        }
+        .expe_btn:hover{
+            color: white;
+            box-shadow: 0 0 0 transparent !important;
+        
+        }
+        .skills{
+        
+        }
+        .skill_h1{
+          color: white;
+          font-size: 24px;
+        }
+        .skill_p{
+          color: white;
+          font-size: 11px;
+        }
+        .progress{
+            color: white;
+        
+        }
+        .c_c_color{
+            color: white;
+            font-size: 11px;
+            margin-bottom: 12px;
+        }
+        .pro_color{
+            background-color: red;
+        }
+        
+         /* experieance section end */
+        /* Choose Me section start */
+        .choose_me{
+        padding-top: 61px;
+        }
+        .choose{
+        
+margin-bottom: 27px;
+        }
+        .co_h2{
+           font-size: 25px;
+           font-weight: 600;
+        }
+        .co_p{
+            margin: 22px 0;
+            font-size: 13px;
+            color: #8e8e8e;
+        }
+        .expert{
+            box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
+            text-align: center;
+            background-color: #FAFAFA;
+            padding: 47px 36px;
+            margin-bottom: 20px;
+        }
+        
+        .exp_h2{
+        
+font-weight: 600;
+        
+line-height: 1.3;
+        
+font-size: 21px;
+        }
+        .te_color{
+            color: red;
+        }
+        /* Choose Me section end */
+        
+        /* protfolio section start */
+        .protfolio{
+            padding: 67px 0;
+        }
+        .project{
+        
+margin-bottom: 30px;
+        }
+        .pr_h2{
+           font-size: 22px;
+           font-weight: 600;
+        }
+        .pr_p{
+            margin: 8px 0;
+            font-size: 12px;
+            color: #8e8e8e;
+        }
+        
+        .content {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+            margin: auto;
+            overflow: hidden;
+            margin-bottom: 20px;
+            
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+        
+        .content .content-overlay {
+            background: rgba(0, 0, 0, 0.7);
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            opacity: 0;
+            -webkit-transition: all 0.4s ease-in-out 0s;
+            -moz-transition: all 0.4s ease-in-out 0s;
+            transition: all 0.4s ease-in-out 0s
+        }
+        
+        .content:hover .content-overlay {
+            opacity: 1;
+        }
+        
+        .content-image {
+            width: 100%;
+            height: 70%;
+        }
+        
+        img {
+            
+border-radius: 5px;
+            
+width: 79%;
+        }
+        
+        .content-details {
+            position: absolute;
+            text-align: center;
+            padding-left: 1em;
+            padding-right: 1em;
+            width: 100%;
+            top: 50%;
+            left: 50%;
+            opacity: 0;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            -webkit-transition: all 0.3s ease-in-out 0s;
+            -moz-transition: all 0.3s ease-in-out 0s;
+            transition: all 0.3s ease-in-out 0s
+        }
+        
+        .content:hover .content-details {
+            top: 50%;
+            left: 50%;
+            opacity: 1
+        }
+        
+        .content-details h3 {
+            font-size: 18px;
+            color: #fff;
+            font-weight: 500;
+            letter-spacing: 0.15em;
+            margin-bottom: 0.5em;
+            text-transform: uppercase;
+        }
+        
+        .content-details p {
+            color: #fff;
+            font-size: 10px;
+            font-size: 0.8em;
+        }
+        
+        .fadeIn-bottom {
+            top: 80%
+        }
+        
+        .con_icon{
+            
+margin: 0 5px;
+            
+font-size: 19px;
+            
+border: 1px solid white;
+            
+width: 34px;
+            
+padding-bottom: 7px;
+            
+padding-top: 6px;
+            
+border-radius: 15%;
+            
+color: white;
+        }
+        .con_icon:hover{
+            transition: .4s;
+            color: white;
+            border: none;
+            background-color: red;
+                
+            
+            }
+        .atage{
+            text-decoration: none;
+        }
+        /* protfolio section edn */
+        
+         /* hire me sectione start  */
+         .hire_me{
+            background-image: url(../img/bg.jpg);
+            background-position: center;
+            background-size: 100% ;
+            background-repeat: no-repeat;
+            
+            font-family: 'Noto Sans TC', sans-serif;
+         }
+         .next_project{
+             
+padding: 79px 0;
+             
+text-align: center;
+             
+color: white;
+             
+font-family: 'Noto Sans TC', sans-serif;
+         }
+         .nex_h1{
+        
+font-size: 20px;
+        
+text-transform: uppercase;
+        }
+         .nex_p{
+        
+margin-bottom: 16px;
+        
+font-size: 12px;
+        
+color: white;
+        }
+         .nex_btn{
+             color: red;
+             border: 1px solid red;
+             width: 95px;
+             height: 36px;
+             font-size: 13px;
+         }
+         .nex_btn:hover{
+            color: white;
+            border: 1px solid red;
+            background-color: red;
+            font-size: 11px;
+        }
+         /* hire me sectione end  */
+         /* client say section start  */
+         .client_say{
+             padding: 70px 0;
+         }
+         .client{
+        
+margin-bottom: 28px;
+        
+}
+         .cli_h2{
+             
+font-size: 25px;
+             
+font-weight: 600;
+         }
+         .cli_p{
+            margin: 18px 0;
+            font-size: 13px;
+            color: #8e8e8e;
+         }
+        
+        .client_review{
+            text-align: center;
+            padding: 29px 20px;
+            background-color: #FAFAFA;
+        }
+         .client_img{
+             width: 34%;
+             border-radius: 50%;
+         }
+         .rev_h3{
+        
+font-size: 21px;
+        
+font-weight: 600;
+        
+margin-top: 9px;
+        
+margin-bottom: 0;
+        }
+        .review_icon{
+            margin: 3px 1px;
+            font-size: 12px;
+            border: 1px solid black;
+            width: 18px;
+            padding-bottom: 1px;
+            padding-top: 2px;
+            border-radius: 14%;
+            color: black;
+        }
+        .review_icon:hover{
+            background-color: black;
+            color: white;
+        }
+        .rev_h5{
+        
+font-weight: 400;
+        
+font-size: 15px;
+        } 
+        .rev_p{
+            
+font-size: 9px;
+            
+margin: 0;
+            
+color: #8e8e8e;
+            
+display: none;
+        }
+         /* client say section edn  */
+        
+         /* message section start */
+         .message{
+        
+         }
+         .send_me{
+             margin-bottom: 20px;
+        
+         }
+         .send_h2{
+            font-size: 25px;
+            font-weight: 600;
+         }
+         .send_p{
+            margin: 14px 0;
+            font-size: 14px;
+            color: #8e8e8e;
+         }
+        
+         .information{
+             text-align: center;
+             background-color: #fafafa;
+             padding: 19px 8px;
+             box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
+             margin-bottom: 50px;
+         }
+         .infor_icon{
+             font-size: 21px;
+             color: red;
+         }
+         .p_phone{
+        
+margin-bottom: 0px;
+        
+margin-top: 2px;
+        
+font-size: 17px;
+        }
+         .teliphone{
+             text-decoration: none;
+             font-size: 13px;
+             color: black;
+         }
+         .teliphone:hover{
+            color: black;
+        }
+         .p_pho_p{
+        
+margin-top: 10px;
+        
+font-size: 11px;
+        
+color: #8e8e8e;
+        
+margin: 0;
+        }
+        
+        
+        /* 3rd row */
+        
+        .send_me_message{
+            padding-bottom: 100px;
+        
+        }
+        .form_in{
+            margin-bottom: 34px;
+            border: 1px solid black;
+        }
+        .form_in:focus{
+            box-shadow: none;
+            border: 1px solid black;
+        }
+        .ms_type{
+            margin-bottom: 34px;
+            border: 1px solid black;
+        }
+        .ms_type:focus{
+            box-shadow: none;
+            
+            border: 1px solid black;
+        }
+        .ms_btn{
+            width: 100%;
+            color: red;
+            border: 1px solid red;
+        }
+        .ms_btn:hover{
+            width: 100%;
+            color: white;
+            border: 1px solid red;
+            background-color: red;
+        }
+        
+         /* messsage section end */
+        
+         /* footer extion start  */
+         .footer{
+             background-color: #1C3144;
+             padding: 0;
+         }
+         .footer_ul{
+             margin: 28px 0;
+         }
+         .fo_atage{
+        
+         }
+         .fo_icon{
+        
+font-size: 15px;
+        
+color: white;
+        
+margin: 0 4px;
+        }
+        .copyright{
+            float: right;
+            margin: 28px 0;
+        }
+        .copy_p{
+            color: white;
+            font-size: 14px;
+            display: inline;
+        }
+         /* footer extion end  */
+
+
+    }
+
+     /* Medium devices (tablets, 768px and up) */
+    @media (min-width: 768px) and (max-width: 991.98px) {
+        body {
+            font-family: 'Lato', sans-serif;
+            margin: 0;
+            padding: 0;
+
+        }
+        /* header top bar start  */
+        .header_top_bar{
+            padding-top: 10px;
+            background-color: #00003A;
+
+        }
+        .number{
+
+
+        }
+        .n_phone{
+            font-size: 10px;
+            margin: 0;
+            margin-right: 10px;
+            text-decoration: none;
+            color: white;
+            display: inline-block;
+        }
+        .n_phone:hover{
+            text-decoration: none;
+            color: white;
+
+
+        }
+        .n_icon{
+            margin: 0 2px;
+            font-size: 12px;
+        }
+        .social_link{
+            float: right;
+            margin-right: 15px;
+        }
+        .social_icon{
+            text-decoration: none;
+            color: white;
+        }
+        .s_icon{
+            margin: 0px;
+            font-size: 15px;
+        }
+        .social_icon:hover{
+            color: white;
+        }
+
+        /* header top bar end */
+
+
+
+
+
+
+
+        /* banner start */
+        .banner{
+            padding: 80px 0 0;
+            background-image: url(../img/banner.jpeg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: 100%;
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+        .b_content{
+            padding: 80px 0;
+            text-align: center;
+        }
+         .b_h1{
+        color: white;
+        font-size: 38px;
+        }
+         .b_p{
+
+    color: white;
+
+    font-size: 12px;
+
+    line-height: 1.8;
+
+    margin: 32px 0;
+        }
+        .b_btn{
+            color: red;
+            border: 1px solid red;
+            width: 143px;
+            height: 41px;
+            font-size: 16px;
+        }
+         .b_btn:hover{
+            background-color: red;
+
+          }
+        /* banner end */
+        /* service start */
+        .service{
+            padding: 68px 0;
+        }
+        .best_service{
+            margin-bottom: 30px;
+        }
+        .bs_h2{font-size: 28px;font-weight: 600;}
+        .bs_p{
+
+margin: 17px 0;
+
+font-size: 13px;
+
+color: #8e8e8e;
+
+}
+        .myservices{
+            margin-bottom: 25px;
+            padding: 27px 20px;
+            background-color: #FAFAFA;
+            text-align: center;
+            box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
+         }
+         .myservices:hover{
+             transition: .5s;
+            box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 30%);
+         }
+
+        .s_s_icon{
+
+font-size: 28px;
+
+color: red;
+}
+        .s_sh4{
+
+margin: 12px 0;
+
+font-size: 22px;
+
+font-weight: 600;
+}
+        .s_sp{
+
+color: #8e8e8e;
+
+font-size: 12px;
+}
+        /* service end */
+
+
+         /* experieance section start */
+         .experieance-section{
+            padding: 100px 0px;
+            background-image: url(../img/ff.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+
+        }
+        .expe_h1{
+            font-size: 34px;
+            color: white;
+        }
+        .expe_p{
+            font-size: 14px;
+            color: white;
+            line-height: 1.8;
+            margin-top: 29px;
+            margin-bottom: 26px;
+        }
+        .expe_btn{
+            background: transparent !important;
+            border: 1px solid white;
+            color: white;
+            margin-top: 15px;
+            font-size: 12px;
+            width: 143px;
+            height: 40px;
+        }
+        .expe_btn:hover{
+            color: white;
+            box-shadow: 0 0 0 transparent !important;
+
+        }
+        .skills{
+
+}
+        .skill_h1{
+          color: white;
+          font-size: 35px;
+        }
+        .skill_p{
+          color: white;
+          font-size: 14px;
+        }
+        .progress{
+            color: white;
+
+        }
+        .c_c_color{
+            color: white;
+            font-size: 13px;
+            margin-bottom: 12px;
+        }
+        .pro_color{
+            background-color: red;
+            height: 18px;
+        }
+
+         /* experieance section end */
+        /* Choose Me section start */
+        .choose_me{
+        padding-top: 80px;
+        }
+        .choose{
+
+margin-bottom: 40px;
+
+}
+        .co_h2{
+           font-size: 28px;
+           font-weight: 600;
+        }
+        .co_p{
+            margin: 11px 0;
+            font-size: 14px;
+            color: #8e8e8e;
+        }
+        .expert{
+            box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
+            text-align: center;
+            background-color: #FAFAFA;
+            padding: 44px 19px;
+        }
+
+        .exp_h2{
+
+font-weight: 600;
+
+line-height: 1.3;
+
+font-size: 19px;
+
+}
+        .te_color{
+            color: red;
+        }
+        /* Choose Me section end */
+
+        /* protfolio section start */
+        .protfolio{
+            padding: 100px 0;
+
+        }
+        .project{
+
+margin-bottom: 40px;
+
+}
+        .pr_h2{
+           font-size: 28px;
+           font-weight: 600;
+        }
+        .pr_p{
+            margin: 15px 0;
+            font-size: 14px;
+            color: #8e8e8e;
+        }
+
+        .content {
+            position: relative;
+            width: 100%;
+            max-width: 400px;
+            margin: auto;
+            overflow: hidden;
+            margin-bottom: 20px;
+
+            font-family: 'Noto Sans TC', sans-serif;
+        }
+
+        .content .content-overlay {
+            background: rgba(0, 0, 0, 0.7);
+            position: absolute;
+            height: 100%;
+            width: 100%;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            opacity: 0;
+            -webkit-transition: all 0.4s ease-in-out 0s;
+            -moz-transition: all 0.4s ease-in-out 0s;
+            transition: all 0.4s ease-in-out 0s
+        }
+
+        .content:hover .content-overlay {
+            opacity: 1;
+        }
+
+        .content-image {
+            width: 100%;
+            height: 70%;
+        }
+
+        img {
+
+border-radius: 5px;
+
+width: 92%;
+
+}
+
+        .content-details {
+            position: absolute;
+            text-align: center;
+            padding-left: 1em;
+            padding-right: 1em;
+            width: 100%;
+            top: 50%;
+            left: 50%;
+            opacity: 0;
+            -webkit-transform: translate(-50%, -50%);
+            -moz-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            -webkit-transition: all 0.3s ease-in-out 0s;
+            -moz-transition: all 0.3s ease-in-out 0s;
+            transition: all 0.3s ease-in-out 0s
+        }
+
+        .content:hover .content-details {
+            top: 50%;
+            left: 50%;
+            opacity: 1
+        }
+
+        .content-details h3 {
+            font-size: 18px;
+            color: #fff;
+            font-weight: 500;
+            letter-spacing: 0.15em;
+            margin-bottom: 0.5em;
+            text-transform: uppercase;
+        }
+
+        .content-details p {
+            color: #fff;
+            font-size: 0.8em
+        }
+
+        .fadeIn-bottom {
+            top: 80%
+        }
+
+        .con_icon{
+
+margin: 0 5px;
+
+font-size: 16px;
+
+border: 1px solid white;
+
+width: 35px;
+
+padding-bottom: 8px;
+
+padding-top: 8px;
+
+border-radius: 14%;
+
+color: white;
+
+}
+        .con_icon:hover{
+            transition: .4s;
+            color: white;
+            border: none;
+            background-color: red;
+
+
+            }
+        .atage{
+            text-decoration: none;
+        }
+        /* protfolio section edn */
+
+         /* hire me sectione start  */
+         .hire_me{
+            background-image: url(../img/bg.jpg);
+            background-position: center;
+            background-size: 100% ;
+            background-repeat: no-repeat;
+
+            font-family: 'Noto Sans TC', sans-serif;
+         }
+         .next_project{
+
+            padding: 100px 0;
+             text-align: center;
+             color: white;
+
+            font-family: 'Noto Sans TC', sans-serif;
+
+         }
+         .nex_h1{
+
+font-size: 28px;
+
+text-transform: uppercase;
+
+}
+         .nex_p{
+
+margin-bottom: 25px;
+
+font-size: 14px;
+
+color: white;
+
+}
+         .nex_btn{
+             color: red;
+             border: 1px solid red;
+             width: 108px;
+             height: 38px;
+             font-size: 14px;
+         }
+         .nex_btn:hover{
+            color: white;
+            border: 1px solid red;
+            background-color: red;
+        }
+         /* hire me sectione end  */
+         /* client say section start  */
+         .client_say{
+             padding: 89px 0;
+         }
+         .client{
+
+margin-bottom: 34px;
+
+}
+         .cli_h2{
+
+font-size: 28px;
+
+font-weight: 600;
+
+}
+         .cli_p{
+            margin: 17px 0;
+            font-size: 14px;
+            color: #8e8e8e;
+         }
+
+        .client_review{
+            text-align: center;
+            padding: 26px 20px;
+            background-color: #FAFAFA;
+        }
+         .client_img{
+             width: 27%;
+             border-radius: 50%;
+         }
+         .rev_h3{
+
+font-size: 23px;
+
+font-weight: 600;
+
+margin-top: 6px;
+
+margin-bottom: 0;
+
+}
+        .review_icon{
+            margin: 7px 3px;
+            font-size: 13px;
+            border: 1px solid black;
+            width: 23px;
+            padding-bottom: 3px;
+            padding-top: 2px;
+            border-radius: 14%;
+            color: black;
+        }
+        .review_icon:hover{
+            background-color: black;
+            color: white;
+        }
+        .rev_h5{
+
+font-weight: 400;
+
+font-size: 16px;
+} 
+        .rev_p{
+
+font-size: 11px;
+
+margin: 0;
+
+color: #8e8e8e;
+}
+         /* client say section edn  */
+
+         /* message section start */
+         .message{
+
+         }
+         .send_me{
+             margin-bottom: 20px;
+
+         }
+         .send_h2{
+            font-size: 28px;
+            font-weight: 600;
+         }
+         .send_p{
+            margin: 18px 0;
+            font-size: 14px;
+            color: #8e8e8e;
+         }
+
+         .information{
+             text-align: center;
+             background-color: #fafafa;
+             padding: 39px 20px;
+             box-shadow: 0px 0px 0px rgb(0 0 0 / 30%), 0px 0px 6px rgb(0 0 0 / 9%);
+             margin-bottom: 50px;
+         }
+         .infor_icon{
+             font-size: 35px;
+             color: red;
+         }
+         .p_phone{
+
+margin-bottom: 6px;
+
+margin-top: 10px;
+
+font-size: 25px;
+
+}
+         .teliphone{
+             text-decoration: none;
+             font-size: 18px;
+             color: black;
+         }
+         .teliphone:hover{
+            color: black;
+        }
+         .p_pho_p{
+
+margin-top: 10px;
+
+font-size: 14px;
+
+color: #8e8e8e;
+
+margin: 0;
+
+}
+
+
+        /* 3rd row */
+
+        .send_me_message{
+            padding-bottom: 100px;
+
+        }
+        .form_in{
+            margin-bottom: 34px;
+            border: 1px solid black;
+        }
+        .form_in:focus{
+            box-shadow: none;
+            border: 1px solid black;
+        }
+        .ms_type{
+            margin-bottom: 34px;
+            border: 1px solid black;
+        }
+        .ms_type:focus{
+            box-shadow: none;
+
+            border: 1px solid black;
+        }
+        .ms_btn{
+            width: 100%;
+            color: red;
+            border: 1px solid red;
+        }
+        .ms_btn:hover{
+            width: 100%;
+            color: white;
+            border: 1px solid red;
+            background-color: red;
+        }
+
+         /* messsage section end */
+
+         /* footer extion start  */
+         .footer{
+             background-color: #1C3144;
+             padding: 0;
+         }
+         .footer_ul{
+             margin: 28px 0;
+         }
+         .fo_atage{
+
+         }
+         .fo_icon{
+
+        font-size: 20px;
+
+        color: white;
+
+        margin: 0 4px;
+
+        }
+        .copyright{
+            float: right;
+            margin: 28px 0;
+        }
+        .copy_p{
+            color: white;
+            display: inline;
+        }
+         /* footer extion end  */
+
+
+     }
+
+     /* Large devices (desktops, 992px and up) */
+    @media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    }
+    /* Extra large devices (Extra large desktops, 1200px and up) */
+    @media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+    }
+    /* Extra Extra large devices (Extra Extra large desktops, 1200px and up) */
+    @media (min-width: 1400px) and (max-width: 1599.98px) { 
+
+    }
